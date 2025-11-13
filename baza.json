@@ -1,6 +1,22 @@
 [
     {
-        "italian_translation":"gatto",
+        "italian_translation":"un gatto",
         "image_path":"cat.gif"
+    },
+    {
+        "italian_translation":"un cane",
+        "image_path":"dog.gif"
+    },
+    {
+        "italian_translation":"un nigro",
+        "image_path":"book.png"
+    },
+    {
+        "italian_translation":"un libro",
+        "image_path":"book.png"
+    },
+    {
+        "italian_translation":"un libro",
+        "image_path":"book.png"
     }
 ]
